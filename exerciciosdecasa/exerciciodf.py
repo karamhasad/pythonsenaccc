@@ -42,3 +42,4 @@ print(f'O segundo quantis é {q2_satisf_alt}')
 print(f'O terceiro quantis é {q3_satisf_alt}')
 
 
+#Comentario: Em geral, todos os dados (media, mediana, q1,q2 e q3) apresentam uma tendência de espera menor no recorte de alta satisfação.
